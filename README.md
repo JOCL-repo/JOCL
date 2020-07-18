@@ -1,4 +1,6 @@
-# JOCLThe project JOCL consists of two parts: (1) GraphConstruction; (2) LearnAndInference.
+# JOCL
+
+The project JOCL consists of two parts: (1) GraphConstruction; (2) LearnAndInference.
 
 1. Unzip the files FreebaseEntityInWiki2.part01 (02, 03, 04).rar and put them in the folder named GraphConstruction\intermedia_data.
 2. Unzip the files original_data.rar and external_data.rar and put them in the folder named GraphConstruction.
