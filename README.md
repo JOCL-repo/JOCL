@@ -26,6 +26,3 @@ Experiments:
  
  
 [1] Canonicalization of open knowledge bases with side information from the source text. ICDE, 2019, 950-961.
- 
-
- 
