@@ -16,8 +16,6 @@ If you want to obtain the results of JOCL quickly, please start step 7 derectly.
 
 Experiments:
 
-Experiments:
-
 1. All the results of the baselines for NP canonicalization on both data sets are taken from SIST[1]. Specially, for NYTimes2018 data set which is not annotated with any CKB, we  randomly sample 100 non-singleton NP groups and manually label them as the ground truth for NP canonicalization, which is the same as SIST. We present labeled NP groups in the folder "Experiments_NYTimes2018\NP canonicalization". 
 2. We randomly sample 35 non-singleton RP groups in ReVerb45k and manually label them as the ground truth for RP canonicalization like SIST. We present labeled RP groups in the folder "Experiments_ReVerb45k\RP canonicalization". All the results of the baselines for RP canonicalization are taken from SIST.
 3. We present some results of baselines (i.e., Earl, Falcon, Spotlight, Tagme, and KBPearl) for OKB entity linking on both data sets in the folder "Experiments_ReVerb45k\OKB entity linking" and "Experiments_NYTimes2018\OKB entity linking".
