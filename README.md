@@ -18,8 +18,8 @@ Experiments:
 
 1. All the results of the baselines for NP canonicalization on both data sets are taken from SIST[1]. Specially, for NYTimes2018 data set which is not annotated with any CKB, we  randomly sample 100 non-singleton NP groups and manually label them as the ground truth for NP canonicalization, which is the same as SIST. We present labeled NP groups in the folder "Experiments_NYTimes2018\NP canonicalization". 
 2. We randomly sample 35 non-singleton RP groups in ReVerb45k and manually label them as the ground truth for RP canonicalization like SIST. We present labeled RP groups in the folder "Experiments_ReVerb45k\RP canonicalization". All the results of the baselines for RP canonicalization are taken from SIST.
-3. We present some results of baselines (i.e., Earl, Falcon, Spotlight, Tagme, and KBPearl) for OKB entity linking on both data sets in the folder "Experiments_ReVerb45k\OKB entity linking" and "Experiments_NYTimes2018\OKB entity linking". Specially, for NYTimes2018 data set that is unlabeled, we randomly sample 100 OIE triples and manually label each NP with its gold mapping entity as the ground truth for OKB entity linking task.
-4. We randomly sample 100 OIE triples and manually label each RP as the ground truth for OKB relation linking. We present labeled OIE triples and some results of baselines （i.e., Rematch, Earl, Falcon, and KBPearl） for OKB relation linking in the folder "Experiments_ReVerb45k\OKB relation linking".
+3. For NYTimes2018 data set that is unlabeled, we randomly sample 100 OIE triples and manually label each NP with its gold mapping entity as the ground truth for OKB entity linking task.
+4. We randomly sample 100 OIE triples and manually label each RP as the ground truth for OKB relation linking. We present labeled OIE triples for OKB relation linking in the folder "Experiments_ReVerb45k\OKB relation linking".
 
  
  
